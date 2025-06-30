@@ -1,0 +1,9 @@
+ID,Name,Age,Salary,Department
+1,John Doe,29,5000$,Sales
+2,Jane Smith,,6000$,Marketing
+3,Bob Lee,NaN,,HR
+4,,45,1000$,Finance
+5,Alice Wong,34,NaN,Operations
+6,,38,4500$,Marketing
+7,Michael,27,,NaN
+8,Nina,NaN,5200$,HR
